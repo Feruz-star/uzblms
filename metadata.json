@@ -1,0 +1,5 @@
+{
+  "name": "AI Media Translator",
+  "description": "Upload a video or audio file to automatically translate the audio into over 175 languages. The app generates translated speech, subtitles, and uses AI-cloned voices for a natural-sounding result.",
+  "requestFramePermissions": []
+}
